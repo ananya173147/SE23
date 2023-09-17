@@ -10,6 +10,8 @@ Project 1: SE Fall 2023 (NCSU)
 | [Cheap Buy](https://github.com/rliu9/cheapBuy) | 77 |
 | [WolfTrackPlus](https://github.com/ramyasaimullapudi/WolfTrackPlus) |    |
 
+Check the proj1/Rubrics/ folder for the gradings of every project
+
 ## Working Demo of the Project
 https://www.youtube.com/watch?v=oznnPnuVm6U
 
