@@ -11,7 +11,7 @@
 | [Cheap Buy](https://github.com/rliu9/cheapBuy) | 77 |
 | [WolfTrackPlus](https://github.com/ramyasaimullapudi/WolfTrackPlus) | 76   |
 
-Check the proj1/Rubrics/folder for the scoring of every project
+Check the 'proj1/Rubrics/' for the scoring of every project and 'proj1/essay' for the essay.
 
 ## Working Demo of the Project
 https://www.youtube.com/watch?v=oznnPnuVm6U
